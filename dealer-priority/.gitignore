@@ -1,0 +1,8 @@
+# Never commit real dealer data, keys, or run output. 1lv1.com is a public site.
+owner.key
+*.key
+audit.log.jsonl
+out/
+*.xlsx
+!sample/*.xlsx
+__pycache__/
