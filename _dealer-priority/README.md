@@ -1,5 +1,9 @@
 # Dealer Visit Priority
 
+> **Not part of the public site.** This folder starts with `_`, so the 1lv1.com build (Jekyll)
+> skips it and it is never published. Do not rename it. Do not merge this branch into `main`
+> without the owner's say-so.
+
 Ranks dealers for visits from **auction purchases** and **visit history** in an Excel workbook.
 One fixed method, so every person gets the same answer. Nothing runs without the owner's permission.
 
